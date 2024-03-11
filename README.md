@@ -47,9 +47,10 @@ _________________________
 
 **&bull; Эмпатия и внимание к пользователям:** Понимание потребностей пользователей и готовность учитывать их мнения для улучшения качества продукта. <br>
 
-**✔️ Мое резюме:** <br>
+**✔️ [Мое резюме]([url](https://github.com/SvetlanaMayer/SvetlanaMayer/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%9C%D0%B0%D0%B9%D0%B5%D1%80%20%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B0%D0%BD%D0%B0_QA%20Engineer.pdf))** <br>
 
 
 📫 Как связаться со мной: <br>
 mayers.qa@gmail.com  <br>
-[Telegram](https://t.me/svetlana_mayer1) <br>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/svetlana_mayer1)
+
